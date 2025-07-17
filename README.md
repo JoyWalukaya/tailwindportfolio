@@ -35,8 +35,8 @@ tailwind-portfolio/
 ## 💼 Projects
 
 ### Poster Gallery  
-###Smart AI
-##Okaybites
+### Smart AI
+### Okaybites
 ---
 
 ## 📩 Contact
