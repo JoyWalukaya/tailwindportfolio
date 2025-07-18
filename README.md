@@ -5,7 +5,7 @@ This is my personal portfolio website built with HTML and Tailwind CSS. It showc
 
 ## 🔗 Live Link
 
-[View Live Portfolio]in progress
+[[View Live Portfolio](https://tailwindportfolioo.netlify.app/)]
 
 ## 📁 Project Structure
 tailwind-portfolio/
